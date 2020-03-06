@@ -1,0 +1,17 @@
+New terms
+Docker 
+container(OS vitual machine)
+
+--------------------------------------
+about NLP:-
+
+
+mycroft ai
+
+utterence --two type
+1:Phrase-->intent
+2:slot-->data
+
+picoviece
+picroft
+--------------------
